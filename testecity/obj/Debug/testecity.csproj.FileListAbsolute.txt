@@ -1,0 +1,7 @@
+C:\ETEC\PA\teste\testecity\testecity\bin\Debug\testecity.exe.config
+C:\ETEC\PA\teste\testecity\testecity\bin\Debug\testecity.exe
+C:\ETEC\PA\teste\testecity\testecity\bin\Debug\testecity.pdb
+C:\ETEC\PA\teste\testecity\testecity\obj\Debug\testecity.csprojAssemblyReference.cache
+C:\ETEC\PA\teste\testecity\testecity\obj\Debug\testecity.csproj.CoreCompileInputs.cache
+C:\ETEC\PA\teste\testecity\testecity\obj\Debug\testecity.exe
+C:\ETEC\PA\teste\testecity\testecity\obj\Debug\testecity.pdb
